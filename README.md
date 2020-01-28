@@ -18,3 +18,6 @@ Includes viuslization of dynamic change of weights/bias of `NN` while on trainin
 `D3`
 
 `Observalbes`
+
+### Test 
+`Jest`
