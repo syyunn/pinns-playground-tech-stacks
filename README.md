@@ -10,5 +10,5 @@
 `Tachyons` f. basic-styles. All styles shall be a superset of this baseline. F. customization, shall use [tachyons-css/generator](https://github.com/tachyons-css/generator). T. visually understand tachyons, please refer t. [tachyons-tldr](https://tachyons-tldr.now.sh/#/scales#Typography)
 
 #### Styleguide
-`Storybook` f. isolated-UI-components-development
+`Storybook` f. isolated-UI-components-development & [Component-Driven Development (CDD)](https://blog.hichroma.com/component-driven-development-ce1109d56c8e).
 
