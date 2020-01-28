@@ -17,7 +17,7 @@
 
 
 ## Visualization
-Includes viuslization of dynamic change of weights/bias of `NN` while on training.
+Includes viuslization of dynamic change of weights/bias of `NN` while on training. For refernce of on-spot visualization while on traning, check [tf-playground](https://playground.tensorflow.org/)
 ### Libraries
 `D3`
 
