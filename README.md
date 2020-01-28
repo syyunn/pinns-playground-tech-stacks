@@ -12,8 +12,9 @@
 #### Styleguide
 `Storybook` f. isolated-UI-components-development & [Component-Driven Development (CDD)](https://blog.hichroma.com/component-driven-development-ce1109d56c8e) & [Visual-Test-Driven-Development](https://blog.hichroma.com/visual-test-driven-development-aec1c98bed87).
 
-## Data Visualization
+## Visualization
+Includes viuslization of dynamic change of weights/bias of `NN` while on training.
 ### Libraries
-'D3'
+`D3`
 
-'Observalbes'
+`Observalbes`
