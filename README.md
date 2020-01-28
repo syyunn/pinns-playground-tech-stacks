@@ -10,7 +10,7 @@
 `Tachyons` f. basic-styles. All styles shall be a superset of this baseline. F. customization, shall use [tachyons-css/generator](https://github.com/tachyons-css/generator). T. visually understand tachyons, please refer t. [tachyons-tldr](https://tachyons-tldr.now.sh/#/scales#Typography)
 
 #### Styleguide
-`Storybook` f. isolated-UI-components-development & [Component-Driven Development (CDD)](https://blog.hichroma.com/component-driven-development-ce1109d56c8e) & [Visual-Test-Driven-Development](https://blog.hichroma.com/visual-test-driven-development-aec1c98bed87).
+`Storybook` f. isolated-UI-components-development & [Component-Driven Development (CDD)](https://blog.hichroma.com/component-driven-development-ce1109d56c8e) & [Visual-Test-Driven-Development](https://blog.hichroma.com/visual-test-driven-development-aec1c98bed87). Moreover, we'll hightly rely on the `addOn(s)`, one of the core features of the `Storybook`, mostly to build the responsive UI - such as using `Addon-viewport`. For the compatibility issue of `addOn(s)` to the react, please refer to [this-link](https://github.com/storybookjs/storybook/blob/master/ADDONS_SUPPORT.md)
 
 ### Testing
 `Jest`as basic testing framework. For react-specific testing convention, follow [this-guides](https://jestjs.io/docs/en/tutorial-react). For the core functionalities we are expecting to the Jest, please refer to [this link](https://flaviocopes.com/jest/) first, rather than official guides.
