@@ -2,7 +2,7 @@
 ### Stateful UI Components 
 `React` f. ui-component-wise development
 
-`React-redux` f. clean-handling o. state-sharing between components. 
+`React-redux` f. clean-handling o. state-sharing between components. To understand how global-stroing of local-states could lead to clean-code, check [official-example-of-react-redux](https://codesandbox.io/s/9on71rvnyo)
 
 ### Styles
 
