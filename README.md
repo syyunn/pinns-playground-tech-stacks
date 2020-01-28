@@ -1,6 +1,7 @@
 ### Fronted
-#### UI Components 
+#### Stateful UI Components 
 `React` f. ui-component-wise development
+
 `React-redux` f. clean-handling o. state-sharing between components. 
 
 #### Styles
