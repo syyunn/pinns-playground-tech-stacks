@@ -1,7 +1,7 @@
 ## Fronted
 ### Stateful UI Components 
 `React` f. ui-component-wise development
-
+`React + Typescript` f. strict type checking. Check CRA w. Typescript with [this link](https://create-react-app.dev/docs/adding-typescript/). `React + Typescript` complements the loosely typed & error-prone character of vanilla javascript that deteriorates the productivity in collobarative situation.
 `React-redux` f. clean-handling o. state-sharing between components. To understand how global-stroing of local-states could lead to clean-code, check [official-example-of-react-redux](https://codesandbox.io/s/9on71rvnyo)
 
 ### Styles
