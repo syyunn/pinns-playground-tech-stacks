@@ -1,17 +1,17 @@
-## Fronted
-### Stateful UI Components 
+# Fronted
+## Stateful UI Components 
 `React` f. ui-component-wise development
 
 `React + Typescript` f. strict type checking. Check CRA w. Typescript with [this link](https://create-react-app.dev/docs/adding-typescript/). `React + Typescript` complements the loosely typed & error-prone character of vanilla javascript that deteriorates the productivity and clear code sharing in colloabrative developement.
 
 `React-redux` f. clean-handling o. state-sharing between components. To understand how global-stroing of local-states could lead to clean-code, check [official-example-of-react-redux](https://codesandbox.io/s/9on71rvnyo)
 
-### Styles
+## Styles
 
-#### Style-baseline
+### Style-baseline
 `Tachyons` f. basic-styles. All styles shall be a superset of this baseline. F. customization, shall use [tachyons-css/generator](https://github.com/tachyons-css/generator). T. visually understand tachyons, please refer t. [tachyons-tldr](https://tachyons-tldr.now.sh/#/scales#Typography)
 
-#### Styleguide
+### Styleguide
 `Storybook` f. isolated-UI-components-development & [Component-Driven Development (CDD)](https://blog.hichroma.com/component-driven-development-ce1109d56c8e) & [Visual-Test-Driven-Development](https://blog.hichroma.com/visual-test-driven-development-aec1c98bed87). Moreover, we'll hightly rely on the `addOn(s)`, one of the core features of the `Storybook`. For example, to build the responsive UI, we will use `Addon-viewport` to test the components' compatibility with the expected viewport(s). For the compatibility issue of `addOn(s)` to the react, please refer to [this-link](https://github.com/storybookjs/storybook/blob/master/ADDONS_SUPPORT.md)
 
 ### Testing
