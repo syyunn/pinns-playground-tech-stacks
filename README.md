@@ -6,6 +6,8 @@
 
 `React-redux` f. clean-handling o. state-sharing between components. To understand how global-stroing of local-states could lead to clean-code, check [official-example-of-react-redux](https://codesandbox.io/s/9on71rvnyo)
 
+`testing-library-react` f. unittesting. Every stateful components shall be inlcuded as a testing unit.
+
 ## Styles
 
 ### Style-baseline
