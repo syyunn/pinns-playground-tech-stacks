@@ -27,3 +27,7 @@ Includes viuslization of dynamic change of weights/bias of `NN` while on trainin
 
 `Observalbes`
 
+# Data Format (File Extension)
+`.mat` Since physicsts simulates using `Matlab` and produces output in `.mat` format, our parimarily support target file-extension shall be `.mat` 
+
+`.csv` Since phsyicists usually shares their experiment-data in `.xlsx` or `csv`, which is exported as `.csv` using `Microsoft Excel`, we support `.csv` as our secondary supported target format.
