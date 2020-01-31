@@ -31,3 +31,7 @@ Includes viuslization of dynamic change of weights/bias of `NN` while on trainin
 `.mat` Since physicsts simulates their insight-based inspections using `Matlab` and produces output in `.mat`, our primary support of file-extension shall be `.mat` 
 
 `.csv` Since phsyicists usually shares their experiment(s)-data in `.xlsx` or `csv` using `Microsoft Excel`, we support `.csv` as our secondary support of file-extension.
+
+# Data exchange between python-javascript
+
+In case data being handed over between `python` and `javascript`, shall use the `fp64` since it's the javascript's primitive-data-type.
